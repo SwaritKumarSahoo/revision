@@ -1,0 +1,16 @@
+.body_background {
+  background-image: url("bg1.htm");
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas {
+  border-width: 5px;
+    border-style: ridge;
+    background-color: rgb(13, 117, 36);
+}
+
+#paint {
+  font-style: oblique;
+    color: rgb(28, 19, 153);
+}
